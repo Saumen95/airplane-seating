@@ -7,5 +7,5 @@ Always seat passengers starting from the front row to back, starting from the le
 </li>
 This is written using python3. To run the program run  ```python seating.py``` in the command prompt. This will return the desired output in the terminal.
 
-Space Complexity shold be O(rows * Cloumn) or O(mn)
+Space Complexity should be O(rows * Cloumn) or O(mn)
 Linear seating or runtime complexity should be O(n) where n is number of passengers
